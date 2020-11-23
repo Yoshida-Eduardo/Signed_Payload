@@ -1,0 +1,25 @@
+{
+  "name": "signed_payload",
+  "version": "1.0.0",
+  "description": "Study repo for payload signing according to BACEN Pix dinamyc qr code requirements",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoshida-Eduardo/Signed_Payload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoshida-Eduardo/Signed_Payload/issues"
+  },
+  "homepage": "https://github.com/Yoshida-Eduardo/Signed_Payload#readme",
+  "dependencies": {
+    "json-server": "^0.16.3",
+    "node-jose": "^2.0.0",
+    "uuid": "^8.3.1"
+  }
+}
