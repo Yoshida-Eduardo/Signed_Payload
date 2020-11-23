@@ -5,7 +5,8 @@ const server = jsonServer.create();
 const middlewares = jsonServer.defaults();
 const router = jsonServer.router(path.join(__dirname, 'db.json'));
 const { overwriteRender, getJwkset } = require('./payload');
- 
+const { keystore } = require('./keystore');
+
 server.use(jsonServer.bodyParser);
 server.use(middlewares);
 server.get('/jwk', getJwkset);
