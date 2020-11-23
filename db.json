@@ -1,0 +1,89 @@
+{
+  "payload": [
+    {
+      "calendario": {
+        "recebivelAposVencimento": true,
+        "expiracao": "2020-11-12T18:08:08.315Z"
+      },
+      "devedor": {
+        "cpf": "12345678901",
+        "nome": "Rapaz que está devendo"
+      },
+      "valor": {
+        "original": "100.00"
+      },
+      "chave": "dd@hotmail.com",
+      "txId": "ID DE CONCILIACAO",
+      "versao": "1.0.0",
+      "id": 1
+    },
+    {
+      "calendario": {
+        "recebivelAposVencimento": true,
+        "expiracao": "2020-11-12T18:08:08.315Z"
+      },
+      "devedor": {
+        "cpf": "12345678901",
+        "nome": "Rapaz que está devendo"
+      },
+      "valor": {
+        "original": "100.00"
+      },
+      "chave": "dd@hotmail.com",
+      "txId": "ID DE CONCILIACAO",
+      "versao": "1.0.0",
+      "id": 2
+    },
+    {
+      "calendario": {
+        "recebivelAposVencimento": true,
+        "expiracao": "2020-11-12T18:08:08.315Z"
+      },
+      "devedor": {
+        "cpf": "12345678901",
+        "nome": "Rapaz que está devendo"
+      },
+      "valor": {
+        "original": "100.00"
+      },
+      "chave": "dd@hotmail.com",
+      "txId": "ID DE CONCILIACAO",
+      "versao": "1.0.0",
+      "id": 3
+    },
+    {
+      "calendario": {
+        "recebivelAposVencimento": true,
+        "expiracao": "2020-11-12T18:08:08.315Z"
+      },
+      "devedor": {
+        "cpf": "12345678901",
+        "nome": "Rapaz que está devendo"
+      },
+      "valor": {
+        "original": "100.00"
+      },
+      "chave": "dd@hotmail.com",
+      "txId": "ID DE CONCILIACAO",
+      "versao": "1.0.0",
+      "id": 4
+    },
+    {
+      "calendario": {
+        "recebivelAposVencimento": true,
+        "expiracao": "2020-11-12T18:08:08.315Z"
+      },
+      "devedor": {
+        "cpf": "12345678901",
+        "nome": "Rapaz que está devendo"
+      },
+      "valor": {
+        "original": "100.00"
+      },
+      "chave": "dd@hotmail.com",
+      "txId": "ID DE CONCILIACAO",
+      "versao": "1.0.0",
+      "id": 5
+    }
+  ]
+}
